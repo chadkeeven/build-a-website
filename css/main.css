@@ -1,0 +1,85 @@
+body {
+	height: 100%;
+	width: 90%;
+	margin: 5%;
+}
+
+
+header {
+	height: 30%;
+}
+
+main {
+	height: 40%;
+}
+
+footer {
+	height: 20%;
+}
+
+nav {
+	padding: 0 33%;	
+}
+
+hr {
+	border-width: 1px;
+	width: 100%;
+	border-style: solid;
+}
+
+a {
+	text-decoration: none;
+}
+
+#container {
+	/*height: 90%;
+	width: 90%;*/
+	/*margin: 5%;*/
+}
+
+.name-header {
+	text-align: center;
+	font-size: 24px;
+}
+
+.nav-item {
+	display: inline-block;
+	padding-left: 20%;
+	font-size: 20px;
+}
+
+.main-text {
+	width: 30%;
+	float: left;
+}
+
+.main-h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	/*width: 30%;*/
+}
+
+.main-description {
+	font-size: 18px;
+}
+
+.me-image {
+	display: inline-block;
+	width: 50%;
+}
+
+.facebook-img {
+	display: inline-block;
+	width: 20%;
+
+}
+
+.linkedin-img {
+	display: inline-block;
+	width: 20%;
+}
+
+.github-img {
+	display: inline-block;
+	width: 20%;
+}
